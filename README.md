@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Adding Number Project
+## Adding Number Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for Adding a Number*
 
 **Java 7**
 
