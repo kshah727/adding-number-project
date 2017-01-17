@@ -1,3 +1,4 @@
+package com.sqa.ks.helpers;
 /**
  * File Name: AppBasics.java<br>
  * Shah, Krishna<br>
